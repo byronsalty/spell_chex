@@ -1,6 +1,22 @@
 # SpellChex
 
-**TODO: Add description**
+Created as an experiment to learn how to build libraries in Elixir to extract common functionality across projects.
+
+The primary purpose to have an efficient way to determine if a word is in a language. 
+
+The library will ship with a list of English words, but will have an easy mechanism to load other word sets to both support other languages and specialized cases like jargon, proper names, nsfw words, etc
+
+## Usage
+
+```
+> SpellChex.exists?("dog")
+true
+
+> SpellChex.exists?("asdfasdf")
+false
+```
+
+
 
 ## Installation
 
