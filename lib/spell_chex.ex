@@ -8,7 +8,6 @@ defmodule SpellChex do
 
   # @sample_words ["hello", "world", "elixir", "phoenix", "spell", "check", "dog", "cat"]
 
-
   @doc """
   Determines if a given `word` is in the list of known words.
 

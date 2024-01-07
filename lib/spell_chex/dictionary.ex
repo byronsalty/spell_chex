@@ -10,7 +10,6 @@ defmodule SpellChex.Dictionary do
 
   alias SpellChex.FileReader
 
-
   @doc """
   Determines if a given `word` is in the list of known words.
 
@@ -35,13 +34,11 @@ defmodule SpellChex.Dictionary do
     GenServer.start_link(__MODULE__, :ok, name: __MODULE__)
   end
 
-
   @impl true
   def init(_) do
     all_words = FileReader.read_words_from_file("deps/spell_chex/priv/20k.txt")
     {:ok, all_words}
   end
-
 
   @impl true
   def handle_call({:check_exists, word}, _from, all_words) do
