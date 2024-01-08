@@ -36,12 +36,12 @@ defmodule SpellChex.Dictionary do
 
   @impl true
   def init(_) do
-    path =
-      if File.exists?("deps/spell_chex/priv/20k.txt") do
-        "deps/spell_chex/priv/20k.txt"
-      else
-        "/app/lib/spell_chex-0.0.1/priv/20k.txt"
-      end
+    path = "/app/lib/spell_chex-0.0.1/priv/20k.txt"
+      # if File.exists?("deps/spell_chex/priv/20k.txt") do
+      #   "deps/spell_chex/priv/20k.txt"
+      # else
+      #   "/app/lib/spell_chex-0.0.1/priv/20k.txt"
+      # end
 
     all_words = FileReader.read_words_from_file(path)
     {:ok, all_words}
