@@ -38,7 +38,7 @@ defmodule SpellChex.MixProject do
   defp package() do
     [
       # This option is only needed when you don't want to use the OTP application name
-      name: "postgrex",
+      name: "spell_chex",
       # These are the default files included in the package
       files: ~w(lib priv .formatter.exs mix.exs README* LICENSE* CHANGELOG*),
       licenses: ["MIT"],
