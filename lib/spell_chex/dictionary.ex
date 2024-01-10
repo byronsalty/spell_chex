@@ -36,7 +36,12 @@ defmodule SpellChex.Dictionary do
 
   @impl true
   def init(_) do
-    path = Path.join([__DIR__, "../../priv/20k.txt"]) |> Path.absname()
+    path =
+      if File.exists?("/app/lib/spell_chex-0.0.4/priv/20k.txt") do
+        "/app/lib/spell_chex-0.0.4/priv/20k.txt"
+      else
+        Path.join([__DIR__, "../../priv/20k.txt"]) |> Path.absname()
+      end
 
     all_words = FileReader.read_words_from_file(path)
     {:ok, all_words}
