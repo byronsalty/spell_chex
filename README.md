@@ -35,3 +35,11 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at <https://hexdocs.pm/spell_checker>.
 
+## Adding Words from txt file
+
+```
+awk '{ for (i=1; i<=NF; i++) print tolower($i) }' book.txt > words.txt
+cat words.txt | sort | uniq > add_words.txt
+cat priv/en.txt add_words.txt | sort | uniq > en_update.txt
+```
+
