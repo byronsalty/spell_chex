@@ -11211,6 +11211,8 @@ metallica
 metals
 metaphor
 metasearch
+meteor
+meteors
 meteorological
 meteorology
 meter
@@ -14328,6 +14330,7 @@ rain
 rainbow
 rainfall
 rainforest
+raining
 rains
 rainy
 raise
