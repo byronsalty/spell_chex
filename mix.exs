@@ -4,7 +4,7 @@ defmodule SpellChex.MixProject do
   def project do
     [
       app: :spell_chex,
-      version: "0.0.12",
+      version: "0.0.13",
       elixir: "~> 1.15",
       start_permanent: Mix.env() == :prod,
       deps: deps(),
