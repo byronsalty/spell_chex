@@ -16870,6 +16870,7 @@ leviathans
 levied
 levin
 levine
+levitate
 levitating
 levitra
 levity
@@ -28328,6 +28329,7 @@ sunglasses
 sunk
 sunken
 sunlight
+sunlit
 sunniest
 sunny
 sunrise
