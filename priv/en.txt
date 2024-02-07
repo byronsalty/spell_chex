@@ -768,6 +768,7 @@ album
 albums
 albuquerque
 alcatel
+alchemist
 alchemists
 alchemy
 alcohol
@@ -29527,6 +29528,10 @@ tingling
 tiniest
 tink
 tinker
+tinkered
+tinkers
+tinkerer
+tinkerers
 tinkering
 tinkle
 tinkling
