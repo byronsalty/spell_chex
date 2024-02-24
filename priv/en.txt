@@ -22814,9 +22814,7 @@ pta
 pte
 ptomaines
 pty
-pu
 pub
-publ
 public
 publication
 publications
@@ -22828,7 +22826,6 @@ publisher
 publishers
 publishes
 publishing
-pubmed
 pubs
 puckered
 pudding
@@ -22883,6 +22880,9 @@ punished
 punishment
 punjab
 punk
+punks
+punkish
+punky
 punt
 punta
 puny
