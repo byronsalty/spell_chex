@@ -9661,6 +9661,8 @@ emitted
 emma
 emmanuel
 emo
+emoji
+emojis
 emoluments
 emory
 emoticons
@@ -13785,6 +13787,8 @@ hitachi
 hitch
 hitchcock
 hitched
+hitchhiker
+hitchhikers
 hitching
 hither
 hitherto
@@ -20606,6 +20610,8 @@ palestine
 palestinian
 palestinians
 palette
+palindrome
+palindromes
 paling
 palings
 palisades
@@ -27508,6 +27514,7 @@ stakes
 stale
 stalk
 stalked
+stalking
 stall
 stalls
 stalwart
