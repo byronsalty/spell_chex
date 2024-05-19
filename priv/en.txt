@@ -11165,8 +11165,6 @@ finite
 finnish
 finny
 fins
-fiona
-fioricet
 fir
 fire
 firearm
@@ -11175,6 +11173,7 @@ fireboard
 fired
 firefighter
 firefighters
+fireflies
 firefly
 firelight
 firemen
@@ -11199,10 +11198,8 @@ firms
 firmware
 firs
 first
-firstgov
 firstly
 fiscal
-fischer
 fish
 fished
 fisher
@@ -11381,7 +11378,6 @@ flora
 floral
 florence
 flores
-florid
 florida
 florist
 florists
