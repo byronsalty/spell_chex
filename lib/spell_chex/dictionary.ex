@@ -37,8 +37,8 @@ defmodule SpellChex.Dictionary do
   @impl true
   def init(_) do
     path =
-      if File.exists?("/app/lib/spell_chex-0.0.18/priv/en.txt") do
-        "/app/lib/spell_chex-0.0.18/priv/en.txt"
+      if File.exists?("/app/lib/spell_chex-0.0.19/priv/en.txt") do
+        "/app/lib/spell_chex-0.0.19/priv/en.txt"
       else
         Path.join([__DIR__, "../../priv/en.txt"]) |> Path.absname()
       end
