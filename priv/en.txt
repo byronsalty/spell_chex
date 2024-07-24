@@ -4570,6 +4570,7 @@ celebrates
 celebrating
 celebration
 celebrations
+celebratory
 celebrex
 celebrities
 celebrity
@@ -14093,6 +14094,7 @@ hughes
 hugo
 hugs
 huh
+hula
 hulk
 hull
 hulls
@@ -17341,6 +17343,7 @@ loyalty
 loyola
 lsu
 lu
+luau
 lubber
 lubbock
 lubricants
@@ -23650,6 +23653,8 @@ reelingly
 reelman
 reels
 reely
+reenact
+reenactment
 reese
 reeves
 reeving
@@ -32814,6 +32819,9 @@ wrote
 wrought
 wrung
 wry
+wwii
+xray
+x-ray
 ya
 yacht
 yachts
