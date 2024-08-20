@@ -28778,6 +28778,7 @@ talk
 talkative
 talkback
 talked
+talker
 talkers
 talkest
 talking
