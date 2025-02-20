@@ -2412,6 +2412,9 @@ barrow
 barry
 bars
 bart
+bartend
+bartender
+bartenders
 barter
 bartered
 bartering
